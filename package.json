@@ -37,7 +37,7 @@
     ],
     "repository": {
         "type": "git",
-        "url": "https://github.com/joyent/node-docker-registry-client.git"
+        "url": "https://github.com/philippfranke/node-docker-registry-client"
     },
     "license": "MPL-2.0"
 }
