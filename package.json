@@ -1,5 +1,5 @@
 {
-    "name": "docker-registry-client",
+    "name": "@philippfranke/docker-registry-client",
     "version": "3.1.6",
     "description": "node.js client for the Docker Registry API",
     "author": "Joyent (joyent.com)",
